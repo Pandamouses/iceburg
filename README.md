@@ -1,5 +1,5 @@
 # White Star Line Model
-<img class='nolazy' style='float:right;' src="Skaven4.png" width="400" height="300" />
+<img class='nolazy' style='float:right;' src="Skaven4.png" width="500" height="250" />
 
 #### By Yuming Zhang
 <br>
