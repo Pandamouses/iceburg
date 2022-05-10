@@ -5,7 +5,8 @@
 <br>
 
 ## 1. Introduction
->> This model aims to help shipping companies with iceberg-towing tug business. The model identifies ice in the study area, filters out icebergs, calculates the mass of each iceberg, and shows it in the window.
+>> This model aims to help shipping companies with iceberg-towing tug business. The model identifies ice in the study area, filters out icebergs, calculates the mass of each iceberg, and shows it in the window. It is can help to make tow strategy after knowing which iceberg can be dragged.
+
 
 
 ## 2. Content
