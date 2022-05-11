@@ -19,7 +19,7 @@
 >> The model is fully tested, and all the lists can be successfully printed and plotted. But the model is unstable and the console might crash. The tests were commented out in the source code.
 
 ## 5. Limitations
->> The model contains limitations. The desired final output was to create an interactive window, each iceberg should be separated from the background, and users can drag the iceberg to check whether the mass is small enough to drag. However, due to a lack of skills, the result was shown in the window as labels. The iceberg  filter part used the mass value as a threshold, the best way could be to use matrix coordinates to identify each iceberg. The limitations could be improved in the further development
+>> The model contains limitations. The desired final output was to create an interactive window, each iceberg should be separated from the background, and users can drag the iceberg to check whether the mass is small enough to drag. However, due to a lack of skills, the result was shown in the window as labels. The iceberg  filter part used the mass value as a threshold, the best way could be to use matrix coordinates to identify each iceberg. The limitations could be improved in the further development.
 
 
 
