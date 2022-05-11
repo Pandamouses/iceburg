@@ -13,7 +13,7 @@
 >> The model source code contains in [White Star Line.py](White Star Line.py). The model was designed in the following steps: 1. Get the lidar and radar data and store them as txt file; 2. Read lidar and radar file; 3. Identify ice using radar file; 4. filter out the none ice area in lidar using radar; 5. Calculate volume and mass of total ice; 6. calculate indivisual mass of iceburg using total ice mass; 7. Check whether each iceberg could be draged; 8. Pull the result to the GUI.
 
 ## 3. How it works
->> Download White Star Line.py, [lidar.txt](lidar.txt) and [radar.txt](radar.txt). Open it in Spyder and directly run it (Graphics backend is Tkinter), the display window will pop up, then click `model` under the menu bar and click `show`. The 5 icebergs within a 300`*`300 background will be displayed. The mass of each iceberg will be printed under the console.
+>> Download White Star Line.py, [lidar.txt](lidar.txt) and [radar.txt](radar.txt). Open it in Spyder and directly run it (Graphics backend is Tkinter), the display window will pop up, then click `model` under the menu bar and click `show`. The 5 icebergs within a 300`*`300 background will be displayed.The mass of each iceberg will be printed under the console and show whether it could be dragged.
 
 ## 4. Test
 >> The model is fully tested, and all the lists can be successfully printed and plotted. But the model is unstable and the console might crash. The tests were commented out in the source code.
